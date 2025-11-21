@@ -1,9 +1,9 @@
-# 🔐 Aspiring Cybersecurity & IT Security Engineer  
+# 🔐 Aspiring  Red Team & FullStack Developer 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RivalAkmallll&color=brightgreen&style=flat-square)  
 
 ## 👨‍💻 About Me
-I’m passionate about **cybersecurity and IT security engineering**.  
+I’m passionate about **cybersecurity and Fullstack Developer**.  
 Currently focused on learning how to secure systems, detect threats, and build strong defenses.  
 
 - 🛡️ Interested in **Network Security, Web Security, and Cloud Security**  
@@ -15,7 +15,8 @@ Currently focused on learning how to secure systems, detect threats, and build s
 
 ## 🛠️ Skills & Tools (Learning & Practicing)
 **Languages & Scripting:**  
-`Python` | `Bash` | `JavaScript` | `PowerShell`  
+`Python` | `Bash` | `JavaScript` | `PowerShell`  `typescript` `javascript`
+`react` `Database` `svelate` `php` `vue`
 
 **Security Tools:**  
 `Nmap` | `Burp Suite` | `Wireshark` | `sqlmap` | `Metasploit`  
@@ -24,7 +25,10 @@ Currently focused on learning how to secure systems, detect threats, and build s
 - 🔐 **OWASP Top 10 & Web Security Basics**  
 - 📡 **Network Fundamentals & Monitoring**  
 - ☁️ **Cloud Security (AWS/Azure basics)**  
-- 🕵️ **Capture The Flag (CTF) Challenges**  
+- 🕵️ **Capture The Flag (CTF) Challenges**
+
+-  ⛏️ **Builiding web app with modern    design**
+-  
 
 ---
 
