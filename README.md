@@ -4,7 +4,7 @@
 
 <h1>
 Hi there, I'm Rival Akmal!
-  <img align="right" src="https://komarev.com/ghpvc/?username=rivalakmal" alt="GitHub profile views counter">
+  <img align="right" src="https://komarev.com/ghpvc/?username=RivalAkmallll" alt="GitHub profile views counter">
 </h1>
 
 <ul>
@@ -88,6 +88,6 @@ Hi there, I'm Rival Akmal!
 
 <br/>
 
-<a href="https://github.com/rivalakmal" target="_blank">
+<a href="https://github.com/RivalAkmallll" target="_blank">
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
 </a>
